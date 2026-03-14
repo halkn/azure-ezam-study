@@ -7,7 +7,7 @@ Microsoft Azure / Microsoft Fabric 認定資格の学習教材リポジトリ。
 
 | 試験コード | 認定資格名 | ステータス |
 |-----------|-----------|----------|
-| [DP-700](exam/dp-700/) | Microsoft Certified: Fabric Data Engineer Associate | 作成中 |
+| [DP-700](exam/dp-700/) | Microsoft Certified: Fabric Data Engineer Associate | 作成済み |
 
 > 今後、他の Azure 認定試験の教材も順次追加予定。
 
@@ -17,7 +17,6 @@ Microsoft Azure / Microsoft Fabric 認定資格の学習教材リポジトリ。
 exam/
 └── dp-700/
     ├── DP-700-textbook-outline.md   # 教科書の章立て一覧（目次）
-    ├── DP-700-study-plan.md         # 公式ラーニングパスと試験範囲のマッピング
     ├── chapters/                    # 章ファイル（ch00〜ch10）
     │   ├── ch00-fabric-architecture.md      # Microsoft Fabric アーキテクチャ
     │   ├── ch01-onelake-shortcuts.md        # OneLake とショートカット
@@ -54,11 +53,10 @@ Microsoft Fabric を使用したデータエンジニアリングソリューシ
 
 ### 学習の進め方
 
-1. **[学習プラン](exam/dp-700/DP-700-study-plan.md)** で全体像を把握する
-2. **[目次](exam/dp-700/DP-700-textbook-outline.md)** で章立てを確認する
-3. 各章ファイルを順番に読み進める（ch00 → ch10）
-4. **[付録E](exam/dp-700/appendix/appendix-e-exam-skill-lookup.md)** で試験スキル項目と章の対応を確認する
-5. 付録A〜Dのリファレンスを適宜参照する
+1. **[目次](exam/dp-700/DP-700-textbook-outline.md)** で章立てを確認する
+2. 各章ファイルを順番に読み進める（ch00 → ch10）
+3. **[付録E](exam/dp-700/appendix/appendix-e-exam-skill-lookup.md)** で試験スキル項目と章の対応を確認する
+4. 付録A〜Dのリファレンスを適宜参照する
 
 ## ライセンス
 
